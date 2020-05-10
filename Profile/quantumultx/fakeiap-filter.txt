@@ -157,4 +157,8 @@ HOST,cdn.fing.io,Fake iAP Policy
 HOST, activation.crossutility.com, reject
 
 #Zing Mp3
-#HOST,api.global.mp3.zing.vn,Fake iAP Policy
+HOST,api.global.mp3.zing.vn,Fake iAP Policy
+
+#SoundCloud
+HOST, api-mibile.soundcloud.com, Fake iAP Policy
+
