@@ -153,7 +153,7 @@ HOST,static.moneylover.me,Fake iAP Policy
 # Fing
 HOST,cdn.fing.io,Fake iAP Policy
 
-#Quantumult X bypass
+#Quantumult X bypass 
 HOST, activation.crossutility.com, reject
 
 #Zing Mp3
